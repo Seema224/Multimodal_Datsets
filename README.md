@@ -40,6 +40,8 @@ We found that although 100+ multimodal language resources are available in liter
 | CH SIMS| CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality | [Paper](https://aclanthology.org/2020.acl-main.343.pdf) | [Dataset](https://github.com/thuiar/MMSA) | 
 | Creep-Image| A Multimodal Dataset of Images and Text | [Paper](http://ceur-ws.org/Vol-2769/paper_11.pdf) | [Dataset](https://github.com/dhfbk/creep-image-dataset) | 
 | Entheos| Entheos: A Multimodal Dataset for Studying Enthusiasm | [Paper](https://aclanthology.org/2021.findings-acl.180.pdf) | [Dataset](https://github.com/clviegas/Entheos-Dataset) | 
+| FACTIFY| FACTIFY:A Dataset on Multi-Modal Fact Verification | [Paper](https://www.researchgate.net/profile/Parth-Patwa/publication/356342935_FACTIFY_A_Multi-Modal_Fact_Verification_Dataset/links/61961c0f3068c54fa5fa6c37/FACTIFY-A-Multi-Modal-Fact-Verification-Dataset.pdf) | [Dataset](https://github.com/Shreyashm16/Factify)
+
  
 
 2. **Machine Translation**
